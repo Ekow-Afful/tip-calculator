@@ -1,0 +1,38 @@
+body {
+  background-color: #4e65e2;
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+h1 {
+  text-align: center;
+  color: beige;
+}
+p {
+  text-align: center;
+  color: beige;
+}
+div.main-container {
+  background-color: #1b1b32;
+  color: beige;
+  border-radius: 0.25rem;
+  width: 20%;
+  /* height: 100%; */
+  margin: 100px auto;
+  padding: 30px 30px;
+}
+label {
+  margin: 0 0;
+  width: 100%;
+  padding: 6px 0;
+}
+input {
+  margin: 10px 0;
+  padding: 10% 10%;
+  font-weight: 40%;
+  border: 0px solid #1b1b32;
+  border-radius: 5px;
+  color: #495057;
+}
+/* button{
+    border-radius: 5px;
+} */
